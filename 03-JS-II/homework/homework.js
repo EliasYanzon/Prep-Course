@@ -190,18 +190,6 @@ function tablaDelSeis(){
     return tabla
   }
   
-  
-  
-  
-  /*let tabla = [];
-  let tablaCompleta = [] 
-  for (let i = 0; i < 10; i++) {
-    let j = i*6;
-    tablaCompleta = tabla.push(j)
-  }
-  return tablaCompleta */
-
-
 function tieneTresDigitos(numero){
   //Leer un número entero y retornar true si tiene 3 dígitos. Caso contrario, retorna false.
   //Escribe tu código aquí
